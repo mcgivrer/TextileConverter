@@ -1,0 +1,19 @@
+TextileConverter
+----------------
+
+These classes are my own implementation of a Textile engine, but agremented for my own needs.
+
+Synthaxe of command are a little bit modified to add features.
+
+All mechanism is developped into the Textile class (Textile.class.php).
+Tags would be extendable (soon) with TextilePlugin class and ITextilePlugin interface.
+
+I am trying to keep classes well documented with clear explanation and some sample when needed.
+
+For any comment or idea, or bug, don't hesitate to contact me :
+"Frederic Delorme"<frederric.delorme@gmail.com>.
+
+
+have fun.
+
+Fred.

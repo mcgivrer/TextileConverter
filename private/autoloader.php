@@ -11,8 +11,9 @@ function autoLoader($className){
     $directories = array(
       '',
       'private/',
-      'private/textile/'
-    );
+      'private/textile/',
+      'private/textile/plugins/',
+      );
 
     //Add your file naming formats here
     $fileNameFormats = array(
